@@ -1,0 +1,7 @@
+{
+  "EU_COMMON": {
+    "value_limit_old": 22,
+    "value_limit_new": 150,
+    "flat_fee": 3
+  }
+}
