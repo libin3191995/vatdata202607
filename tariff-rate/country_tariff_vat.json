@@ -3,64 +3,64 @@
         "country_name": "AT",
         "default_base_tariff": 20.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "DE": {
         "country_name": "DE",
         "default_base_tariff": 19.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "ES": {
         "country_name": "ES",
         "default_base_tariff": 21.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "FR": {
         "country_name": "FR",
         "default_base_tariff": 20.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "IT": {
         "country_name": "IT",
         "default_base_tariff": 22.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "NL": {
         "country_name": "NL",
         "default_base_tariff": 21.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "PT": {
         "country_name": "PT",
         "default_base_tariff": 23.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "SE": {
         "country_name": "SE",
         "default_base_tariff": 25.0,
         "data_source": "vatcomply EU Official VAT API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "GB": {
         "country_name": "United Kingdom",
         "default_base_tariff": 0.0,
         "data_source": "UK Gov Trade Tariff Official API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "US": {
         "country_name": "United States of America",
         "default_base_tariff": 0.0,
         "data_source": "USITC Official HTS Tariff API",
-        "last_updated": "2026-07-14 19:26:44"
+        "last_updated": "2026-07-15 19:19:07"
     },
     "global_meta": {
-        "sync_timestamp": "2026-07-14 19:26:44",
+        "sync_timestamp": "2026-07-15 19:19:07",
         "sync_type": "GitHub Actions Daily Auto Sync",
         "total_country_count": 10
     }
